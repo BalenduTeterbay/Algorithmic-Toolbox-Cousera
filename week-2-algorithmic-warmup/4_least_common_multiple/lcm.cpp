@@ -1,3 +1,4 @@
+// We can use seperate libraries as well.
 #include<bits/stdc++.h>
 using namespace std;
 #define ll long long
@@ -16,4 +17,5 @@ int main() {
 cin>>a>>b;
 cout<<lcm(a,b)<<endl;
 return 0;
+
 }
