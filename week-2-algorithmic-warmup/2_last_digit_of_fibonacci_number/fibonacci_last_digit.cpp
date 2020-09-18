@@ -11,7 +11,6 @@ int get_fibonacci_last_digit(long long n) {
         first = second;
         second = res;
     }
-
     return res;
 }
 
