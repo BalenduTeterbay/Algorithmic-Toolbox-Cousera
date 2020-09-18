@@ -10,4 +10,5 @@ int main() {
     cin>>a>>b;
     cout<<sum(a,b)<<endl;
     return 0;
+ //
 }
