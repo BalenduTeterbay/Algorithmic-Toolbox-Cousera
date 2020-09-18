@@ -2,7 +2,6 @@
 #include <cassert>
 
 // The following code calls a naive algorithm for computing a Fibonacci number.
-//
 // What to do:
 // 1. Compile the following code and run it on an input "40" to check that it is slow.
 //    You may also want to submit it to the grader to ensure that it gets the "time limit exceeded" message.
