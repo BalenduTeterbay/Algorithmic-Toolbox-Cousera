@@ -2,7 +2,7 @@
 #include <cmath>
 #include <algorithm>
 #include <vector>
-typedef   long long int               ll;
+typedef   long long int     ll;
 using namespace std;
 
 using namespace std;
